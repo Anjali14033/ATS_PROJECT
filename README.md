@@ -1,14 +1,12 @@
-
-
 # END-TO-END RESUME APPLICATION TRACKING SYSTEM BY USING GOOGLE GEMINI PRO LLM PROJECT
 
 
 ## Project Overview
-The goal is to create a system that can parse resumes, extract relevant information, and track candidates' progress through the hiring process using an ATS.
+
 The job application process is no doubt daunting process and a resume is the document that represents us to the HR's. Whenever we apply for a job and we get a rejection without any feedback feels sad right? So I took this as a motivation for my project I created an application using Google generative AI [GEMINI] and built an application where you can get your feedback, and what are the keywords that are missing in your Resume.
 
 ## Objectives
-
+- The goal is to create a system that can parse resumes, extract relevant information, and track candidates' progress through the hiring process using an ATS.
 - To provide an intuitive tool for job seekers to match their resumes with job descriptions.
 - To leverage advanced AI technology for analyzing and providing feedback on resumes.
 - To offer a user-friendly interface that simplifies the resume review process.
